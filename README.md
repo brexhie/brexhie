@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brexhie
-- 🌱 I’m a first year programming student at CTU Training Solution in Port ELizabeth, Eastern Cape, South Africa.
+- 🌱 First year programming student at CTU Training Solution in Port ELizabeth, Eastern Cape, South Africa.
 - 📫 How to reach me: brettryan170@gmail.com
 
 <!---
