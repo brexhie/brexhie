@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I'm Brett Ryan</h1>
-<h3 align="center">A junior Software Developer from South Africa</h3>
+# Hi there 👋 I'm Brett
 
-- 📫 How to reach me **brettryan170@gmail.com**
+🎓 Soon to be IT graduate (National Certificate in Information Technology: Database Development)
+
+## 🚀 About Me
+- 💼 Currently working as a recoveries handler for MSL Legal Expenses, but aspiring to be a Junior Software Developer
+- 🎯 My goal: To build secure, scalable, and user-friendly web applications
+- 🧠 My specialty: ASP.NET MVC, Entity Framework Core, and SQL Server
